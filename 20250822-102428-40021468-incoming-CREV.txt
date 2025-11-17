@@ -1,0 +1,180 @@
+20250822-102428-40021468-incoming-CREV.mp3
+
+[00:00:01.04] Speaker1: Muy buenos días.
+
+[00:00:02.48] Speaker2: Buenos días. Eh, Había otro muchacho. Yo creo que me estaba ayudando aquí en el parque. Don Jaime.
+
+[00:00:09.02] Speaker1: Eh, Dime qué le puedo ayudar.
+
+[00:00:11.30] Speaker2: El problema es que me parece que tengo. Tengo alguna situación con la con la aplicación porque no me da la opción para reservar.
+
+[00:00:21.29] Speaker1: El cargador. Don Don Jaime.
+
+[00:00:24.05] Speaker2: De Don Jaime.
+
+[00:00:24.77] Speaker1: Sí, Ok. El cargador en este momento se encuentra ocupado.
+
+[00:00:29.09] Speaker2: ¿Está ocupado? Sí, efectivamente. [00:00:30.00] Lo que te estoy diciendo es que yo creo que tengo un problema con la aplicación porque, bueno, ya lo hice, ya lo estoy cargando, pero lo hicimos desde la aplicación de otra compañera de otro teléfono.
+
+[00:00:40.43] Speaker1: Ajá.
+
+[00:00:40.67] Speaker2: ¿Pero quiero obviamente arreglar el mío porque tengo que tenerlo habilitado y hace días estoy tratando de hacerlo, que iba a cargarlo antier o algo así y no pude porque te digo no, ni siquiera me despliega eh? En parqueos me en perdón en para efectos de reserva no me despliega eh el parqueo.
+
+[00:00:57.68] Speaker1: ¿Okay eh tienes el lo tienes a mano, [00:01:00.00] verdad? Es el mismo al que me estás hablando.
+
+[00:01:02.47] Speaker2: No estoy hablando de. De un teléfono fijo.
+
+[00:01:05.23] Speaker1: Okay, entonces metámonos en la aplicación.
+
+[00:01:08.20] Speaker2: Ajá. Si, yo estoy en la aplicación.
+
+[00:01:13.42] Speaker1: Okay. Nos vamos a la opción donde dice filtros.
+
+[00:01:16.63] Speaker2: Ajá.
+
+[00:01:18.04] Speaker1: Sale conectores y red de carga. Si nos metemos en red de carga.
+
+[00:01:23.14] Speaker2: Ajá.
+
+[00:01:24.07] Speaker1: Y las tres opciones tienen que estar activas.
+
+[00:01:26.95] Speaker2: A las tres inclusive. Comunitaria.
+
+[00:01:29.23] Speaker1: Correcto.
+
+[00:01:30.34] Speaker2: A [00:01:30.00] veces esa no estaba. No estaba activada.
+
+[00:01:32.95] Speaker1: Y le aplicar.
+
+[00:01:35.17] Speaker2: Ajá.
+
+[00:01:37.48] Speaker1: En conectores. Eh. ¿Tiene alguno bloqueado?
+
+[00:01:44.08] Speaker2: ¿A dónde me meto en eso?
+
+[00:01:45.55] Speaker1: En la misma parte de red de carga dice Conectores.
+
+[00:01:50.77] Speaker2: De red de carga.
+
+[00:01:53.11] Speaker1: Ahí mismo en filtros.
+
+[00:01:55.78] Speaker2: Mhm.
+
+[00:01:57.46] Speaker1: Al lado. Las dos opciones de conectores y red [00:02:00.00] de carga.
+
+[00:02:03.13] Speaker2: ¿De conectores? No, no tengo ninguna. Y yo creo que es el primero. El azul es el J uno 172.
+
+[00:02:13.90] Speaker1: ¿Es azul o está en gris?
+
+[00:02:16.66] Speaker2: Estaba en azul. Está en azul.
+
+[00:02:21.04] Speaker1: Ok. Ajá. Sí, está en azul. ¿Está reflejado? Sí, está en gris. Está bloqueado.
+
+[00:02:25.60] Speaker2: Ah, bueno. Okay. Entonces todos están en azul.
+
+[00:02:28.15] Speaker1: Ajá. Entonces debe aplicar y Y [00:02:30.00] sale a buscar el el adaptador. Si gusta, lo puede hacer desde el mapa, no desde el buscador. A ver si le sale la burbuja cuando se abre.
+
+[00:02:40.12] Speaker2: Es que la burbuja en Desamparados no aparece.
+
+[00:02:42.73] Speaker1: No le aparece la Desamparados.
+
+[00:02:44.38] Speaker2: No me aparece. No, no, no, es más, lo único que aparecen son números seis, 20, 48, siete, cuatro. No aparece ningún ícono con eso, con azul o con anaranjado que yo creo. Aquí abajo, si.
+
+[00:02:59.98] Speaker1: No [00:03:00.00] le aparecen los los no le aparecen los cargadores en el mapa.
+
+[00:03:03.73] Speaker2: Ajá. Exacto.
+
+[00:03:04.75] Speaker1: Sí. En la aplicación se puede meter en.
+
+[00:03:08.47] Speaker2: La cerré y la volví a A a generar porque me dijeron que podía ser que hubiera alguna situación y de. Pero salí igual.
+
+[00:03:16.45] Speaker1: Okay. Metámonos en perfil.
+
+[00:03:18.85] Speaker2: Mhm.
+
+[00:03:19.66] Speaker1: ¿Arriba dice configuraciones y un número que, que que número le sale?
+
+[00:03:24.46] Speaker2: B 2000 y uno. Triple cero siete.
+
+[00:03:28.66] Speaker1: Sí, esa es la última versión. [00:03:30.00] Sí, hay un fallo. Hay un fallo en la aplicación, pero es en la aplicación suya. ¿Qué teléfono usa?
+
+[00:03:44.80] Speaker2: Es un iPhone.
+
+[00:03:46.06] Speaker1: ¿Qué modelo?
+
+[00:03:48.13] Speaker2: Eh, creo que es el 14.
+
+[00:03:50.53] Speaker1: Okay. Presidente, usted tiene desactivado, eh, la función de ubicación En el iPhone.
+
+[00:03:58.55] Speaker2: Y ahorita que me preguntó le puse [00:04:00.00] que únicamente cuando usaba la aplicación.
+
+[00:04:04.16] Speaker1: Me dice sería que la que la active del permanente y probar a ver si si le si le abre la el los el mapa con las burbujas.
+
+[00:04:22.55] Speaker2: Okay. Ahí está. ¿A [00:04:30.00] dónde me tengo que meter? ¿A general, verdad? ¿En configuración general?
+
+[00:04:44.30] Speaker1: Si, en la configuración general del iPhone en ubicaciones.
+
+[00:04:48.08] Speaker2: Ajá.
+
+[00:04:49.46] Speaker1: Que la opción del de ubicación esté activa.
+
+[00:05:07.52] Speaker2: No [00:05:00.00] encuentro. ¿Dónde está lo de la chica? ¿Lo de la ubicación? No. Localización. [00:06:00.00] Aquí lo tengo. Ah, no, Eso es localización.
+
+[00:06:12.34] Speaker1: Ah. En Ajustes.
+
+[00:06:14.17] Speaker2: Localización de mi.
+
+[00:06:16.18] Speaker1: Segunda y que se activa.
+
+[00:06:53.71] Speaker2: No, [00:06:30.00] no sé dónde dices. Eso.
+
+[00:07:05.85] Speaker1: ¿Pero [00:07:00.00] sí encontraste la localización o no la has encontrado?
+
+[00:07:08.91] Speaker2: No, no lo encuentro.
+
+[00:07:10.59] Speaker1: Okay. Eh, ponga este. Ajustes de iPhone. Privacidad y seguridad. Localización.
+
+[00:07:21.99] Speaker2: Pero. Pero es que estoy en configuración. ¿Me meto que? En general.
+
+[00:07:26.37] Speaker1: Seguridad. Ajá. Ok, en ajustes se mete en privacidad y seguridad. [00:07:30.00]
+
+[00:07:30.81] Speaker2: Okay. Pero. Privacidad y seguridad. Okay. Así lo.
+
+[00:07:36.69] Speaker1: Dejé.
+
+[00:07:37.32] Speaker2: Ajá.
+
+[00:07:38.22] Speaker1: Ajá. Ajá. Y está en verde. Okay, escríbelo y lo vuelve a activar.
+
+[00:07:43.44] Speaker2: Okay, ya.
+
+[00:07:45.24] Speaker1: Refresque todas las aplicaciones. Cierra todas las ventanas que estén abiertas en el iPhone, entre ellas el app.
+
+[00:08:04.65] Speaker2: Y [00:08:00.00] me vuelvo a meter al auto.
+
+[00:08:05.82] Speaker1: Ajá. ¿Lo volvemos a abrir?
+
+[00:08:09.87] Speaker2: Mhm. Dime otra vez a buscar.
+
+[00:08:13.35] Speaker1: No, no he buscado oro. Necesito que en mapas desde la casita. O sea, en la primera opción, que es la casita en mapa, le salgan todas las burbujas azules, anaranjadas.
+
+[00:08:24.03] Speaker2: No, solamente el número me sale.
+
+[00:08:26.46] Speaker1: Si es que si no le sale eso no la esta, no está abriendo con solo eso, no está abriendo [00:08:30.00] la.
+
+[00:08:31.41] Speaker2: A ver, ya vi, es que arriba tiene dos iconos también. Bueno, ya lo toqué y ya me. Ah, bueno, sí, ya me sale Desamparados también. ¿Ve? Sí.
+
+[00:08:40.17] Speaker1: Ahora sí.
+
+[00:08:41.37] Speaker2: Ajá, algo así ya me salió.
+
+[00:08:43.92] Speaker1: Ahora Sí.
+
+[00:08:44.76] Speaker2: Exacto. Okay. Le agradezco muchísimo. Muy gentil.
+
+[00:08:48.51] Speaker1: Con todo gusto para servirle.
+
+[00:08:49.83] Speaker2: Que tenga buen día.
+
+[00:08:50.79] Speaker1: Igual.
+

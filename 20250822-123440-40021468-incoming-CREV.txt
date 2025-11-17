@@ -1,0 +1,72 @@
+20250822-123440-40021468-incoming-CREV.mp3
+
+[00:00:00.77] Speaker1: Ahora sí es una. Buenas.
+
+[00:00:03.59] Speaker2: Hola. Muy buenas. Es que. Mira, es que me dieron la tarjeta de de para cargar eso en carros eléctricos, pero no me funcionó. Me dice algo de no sé qué inválido.
+
+[00:00:16.10] Speaker1: ¿O está tratando de hacer una recarga?
+
+[00:00:19.34] Speaker2: Sí. No sé si es que tienen que activar la tarjeta o algo así.
+
+[00:00:22.64] Speaker1: Okay. ¿En qué cargador estás?
+
+[00:00:25.64] Speaker2: ¿Eh? No, no, ahorita estoy en mi casa. Pero, eh, eso es cuando está en [00:00:30.00] el. En la. En el. Toma. Okay. En el cargador.
+
+[00:00:32.06] Speaker1: La tarjeta. Okay. Le comento, los cargadores trabajan bajo reserva. ¿Usted se tiene que meter desde la aplicación, verdad? Reservar el cargador, hacer el pago de la reserva. Cuando ya se tiene eso efectuado, se conecta la pistola en el vehículo y la tarjeta es para validar el cargador. ¿O sea, la tarjeta es solo para eso eh?
+
+[00:00:55.43] Speaker2: Ayer lo intenté y me salía error. No sé qué va inválido no sé qué y y y [00:01:00.00] ya lo había reservado y mejoraron y todo, pero no lo pude cargar.
+
+[00:01:05.70] Speaker1: ¿Cuál es su correo?
+
+[00:01:08.55] Speaker2: Es san 50 19 cuatro cuatro arroba Gmail.
+
+[00:01:12.42] Speaker1: Com n.
+
+[00:01:13.59] Speaker2: Con n.
+
+[00:01:14.82] Speaker1: San 50 San 50 19 cuatro cuatro. ¿Qué pasa?
+
+[00:01:23.88] Speaker2: Le intenté cargar aquí en la En la cosa que dices es un JS uno.
+
+[00:01:30.00] Speaker1: Okay, [00:01:30.00] vea, yo por acá estoy revisando el el proceso. El cargador lo que me indica es que nunca se conectó. Ok. Esa es la que nunca conectó el el el carro. ¿Qué es lo que pasa con el JS uno? El JS uno es un carro bien complicado en conectar en carga rápida. Entonces el cargador, el carro tiene que estar apagado, ventanas cerradas y el vehículo bloqueado para poder conectarlo.
+
+[00:01:58.38] Speaker2: Bloqueado así como seguro cerrado. [00:02:00.00]
+
+[00:02:00.48] Speaker1: Ajá, con los seguros cerrados, porque de hecho lo que tengo acá es que ni siquiera hubo una conexión. O sea, o no hubo una conexión con el cargador. Por eso. Por eso no te. No te funcionó. Entonces él. ¿La pistola en el S1? Sí. Hay que asegurarse que entre bien duro porque el pin del S1 es muy corto y no siempre lo reconoce.
+
+[00:02:24.55] Speaker2: Si por ejemplo, yo no estaba conectado y y no me salía el botón de iniciar [00:02:30.00] nunca en la aplicación.
+
+[00:02:31.09] Speaker1: Sí, porque lo correcto no en la aplicación, no va a salir botón de iniciar porque el arranque es con la tarjeta.
+
+[00:02:37.45] Speaker2: Ajá.
+
+[00:02:38.17] Speaker1: Entonces esa es la diferencia. Digamos, el arranque va a ser con la tarjeta. El problema es que no había que arrancar porque el cargador ni siquiera estaba reconociendo el carro. O sea, el cargador nunca, nunca reconoció la conexión en el vehículo.
+
+[00:02:51.19] Speaker2: Ajá.
+
+[00:02:52.45] Speaker1: ¿Entonces siempre hacerlo, el empujar bien la pistola y que el carro esté cerrado, verdad? Eso [00:03:00.00] para que él pueda hacer la conexión y ya cuando él haga la conexión en la pantalla, el cargador le va a tirar un dato que va a decir valide el VIN con una tarjeta, un código QR y con la tarjeta usted la pasa por el por el sensor del cargador y él hace el arranque.
+
+[00:03:22.77] Speaker2: Okay. Entonces, eh, eso era. O sea, si hago todo eso y le pasa tarjeta y no me va a salir ese error de de inválido o algo así.
+
+[00:03:29.70] Speaker1: No le va a [00:03:30.00] salir el error de inválido porque ya, ya, ya reconoció el error. Lo estaba tirando porque él no estaba reconociendo el vehículo.
+
+[00:03:38.79] Speaker2: Okay.
+
+[00:03:42.39] Speaker1: Ese ese sería el proceso ahorita y este. ¿Tengo por acá que la recarga de ayer fue perdida verdad? Porque no lo conectó, entonces yo lo voy a hacer, yo le voy a hacer la devolución del monto, ese monto queda flotando en en la aplicación. Entonces cuando usted vaya a hacer otra recarga, ese monto se va a rebajar inmediatamente [00:04:00.00] en la próxima recarga.
+
+[00:04:06.55] Speaker2: Ok, Ok.
+
+[00:04:07.96] Speaker1: Entonces se le va a quedar ahí. ¿Si usted llega, digamos va, va otro cargador y ya eh agenda 15 minutos que fue lo que pagó? ¿Le va a salir eh? Cobro cero porque se van a rebajar esos, se va a rebajar primero ese monto. ¿Si pone media hora le va a cobrar solo 15 y así, verdad? Dependiendo lo que ponga el primero, el monto que va a quedar flotando para [00:04:30.00] para la próxima recarga. Pero serían los pasos a seguir con el con el SJ uno, porque él sí tiene esa esa característica.
+
+[00:04:39.97] Speaker2: Okay, okay. Gracias.
+
+[00:04:45.22] Speaker1: ¿Alguna otra consulta, caballero?
+
+[00:04:48.22] Speaker2: No, no.
+
+[00:04:51.34] Speaker1: Okay, entonces serían los procedimientos. Yo procedo a hacerle la devolución.
+
+[00:04:57.01] Speaker2: Okay. Gracias.
+
+[00:04:58.48] Speaker1: Con todo gusto para servirle.
+
