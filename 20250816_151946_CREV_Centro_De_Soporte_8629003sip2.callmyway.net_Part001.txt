@@ -1,0 +1,44 @@
+20250816_151946_CREV_Centro_De_Soporte_8629003@sip2.callmyway.net_Part001.MP3
+
+[00:00:00.95] Speaker1: Muy buenas tardes. Si. Buenas.
+
+[00:00:05.51] Speaker2: Hola. Buenas.
+
+[00:00:06.89] Speaker1: Sí, Buenas.
+
+[00:00:07.82] Speaker2: Una consulta. Es que yo estaba realizando, eh, una reserva para cargar eléctrico en la aplicación de Card. Eso es lo que me sale. Un mensaje de error. Como que la fecha de inicio no puede ser vacía.
+
+[00:00:20.48] Speaker1: Eh, Vamos a ver si tiene que ser, eh, para reservar en el futuro. Mhm.
+
+[00:00:27.20] Speaker2: Correcto. Le puse hoy a las tres y 35. [00:00:30.00] A ver, lo que decía era que la fecha no puede ser indefinida. Creo que. Bueno, también está en inglés, pero es un error. Como si no no tuviera el valor de de la fecha. Como si fuera en blanco.
+
+[00:00:44.12] Speaker1: Okay, puedes revisar si tienes una actualización de aplicación porque recién se actualizó. Puede ser que no la tengas actualizada.
+
+[00:00:50.96] Speaker2: ¿Eh? Sí, justo me pidió actualizarlo antes de usar la aplicación.
+
+[00:00:54.71] Speaker1: Okay. Te está dando un error de fecha.
+
+[00:00:57.20] Speaker2: Sí, correcto. Sí, [00:01:00.00] Lo que hice. Ese error. No se puede leer las propiedades de indefinido. Eh, Leyendo Startdate de inicio y fecha.
+
+[00:01:09.11] Speaker1: Veremos un segundo, porque si tengo reservas del día de hoy en la aplicación de Curicó, entonces ya sería algo aislado. Su número de teléfono, por favor.
+
+[00:01:18.65] Speaker2: 7184 23.
+
+[00:01:21.53] Speaker1: Cuatro.
+
+[00:01:22.91] Speaker2: 23 nueve nueve.
+
+[00:01:29.48] Speaker1: Si. No [00:01:30.00] lee la fecha de error en la fecha de inicio.
+
+[00:01:40.55] Speaker2: Exacto.
+
+[00:01:52.04] Speaker1: Pero no sé con. ¿Qué tipo de dispositivo es Android o [00:02:00.00] iPhone?
+
+[00:02:02.60] Speaker2: Android.
+
+[00:02:03.56] Speaker1: Android. Ok, veamos un par de minutos para revisar y devolvemos la llamada. Está bien.
+
+[00:02:11.75] Speaker2: Ok.
+
+[00:02:12.62] Speaker1: Perfecto.
+

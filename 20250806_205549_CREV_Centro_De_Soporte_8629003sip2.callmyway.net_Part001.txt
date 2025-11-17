@@ -1,0 +1,72 @@
+20250806_205549_CREV_Centro_De_Soporte_8629003@sip2.callmyway.net_Part001.MP3
+
+[00:00:02.87] Speaker1: Muy buenas noches.
+
+[00:00:05.36] Speaker2: Hola. Buenas noches.
+
+[00:00:06.65] Speaker1: Sí, buenas noches.
+
+[00:00:08.87] Speaker2: ¿Hablo con la empresa Krebs?
+
+[00:00:12.41] Speaker1: Sí, señor.
+
+[00:00:15.26] Speaker2: Es que. Bueno, no sé si este es el número para soporte técnico. Es que estoy en un cargador y no me. Ya pagué y no me quiere como funcionar. Queda como reiniciando.
+
+[00:00:26.03] Speaker1: Okay. Vamos a revisar en qué cargador se encuentra.
+
+[00:00:29.51] Speaker2: Me encuentro [00:00:30.00] en el de Santo Domingo de Heredia. La vacar. 365.
+
+[00:00:35.84] Speaker1: Pero en el. En el de Santo Domingo. ¿Verdad?
+
+[00:00:39.11] Speaker2: Sí, correcto.
+
+[00:00:40.37] Speaker1: Okay. Dice que existe una reserva de ocho y 48 a 9 y 20 por 30 minutos. Sí, está reservado. ¿Pagaste con tarjeta? Okay. El error que te presenta. Entonces.
+
+[00:00:56.63] Speaker2: Eh, Me salió. O sea, como que lo conecté. [00:01:00.00] Le di como iniciar carga o activar. Y el error que me salió en la pantalla dice Error syntax, error J s o n parse error. ¿Un aspecto character o algo así?
+
+[00:01:16.43] Speaker1: Okay, vamos a ver. Entonces, Eh, Conecta el vehículo. Creo que está desconectado.
+
+[00:01:22.52] Speaker2: Ajá. Ahí está conectado.
+
+[00:01:29.84] Speaker1: Ya conectó. [00:01:30.00] ¿Qué modelo vehículo es?
+
+[00:01:33.83] Speaker2: Es un Keiji X tres pro I.
+
+[00:01:37.52] Speaker1: Mhm. Okay. A ver. Porque el cargador no lo ha. No lo ha detectado. Okay. Desconéctelo, por favor.
+
+[00:01:59.42] Speaker2: ¿En la pantalla de [00:02:00.00] carga? Sí. Detecta como que hay algo conectado en el carro, digamos. Pero en la.
+
+[00:02:05.51] Speaker1: El cargador. El cargador no. Correcto. Ya lo desconectó.
+
+[00:02:10.13] Speaker2: ¿Ya lo desconectó? Sí, ya está desconectado.
+
+[00:02:13.16] Speaker1: Vuelve a conectarlo, pero fuertemente. ¿Y ahora? Sí, ya. Ahora si te lo leyó me parece que no están haciendo buena conexión. Entonces ahorita en la aplicación le das a activar.
+
+[00:02:35.45] Speaker2: Activar. [00:02:30.00] Y ahí en teoría está cargando. Dice preparando.
+
+[00:02:55.34] Speaker1: Ya. Desactivar. Sí.
+
+[00:02:57.56] Speaker2: Sí, correcto.
+
+[00:02:58.91] Speaker1: Okay, vamos a ver. [00:03:00.00] No he visto pasar el comando de activar. Creo que no te lo leyó.
+
+[00:03:12.71] Speaker2: Y no sé si será porque estoy haciendo como la llamada que a veces el internet se se pone lento por la. Ya, ya me salió Roxy Network Request Fail.
+
+[00:03:26.03] Speaker1: Okay, indíqueme si el cargador dice Iniciando la carga.
+
+[00:03:30.89] Speaker2: No, [00:03:30.00] aún sale activa Creb app o desliza la tarjeta.
+
+[00:03:41.89] Speaker1: Y acabo de enviar el comando de activar.
+
+[00:03:47.08] Speaker2: Ahí dice Ahora sí. Cargador dice cargando. Si no estoy mal. Sí, ahora sí, ya parece que cargando.
+
+[00:03:57.13] Speaker1: Entonces, ahora Sí. 59. Entonces [00:04:00.00] vas a cargar hasta Hasta la hasta la 21 y 30. Ok, listo. Ya te actualizamos la reserva.
+
+[00:04:18.34] Speaker2: Okay. Muchas gracias. Y otra consulta. ¿Ese error no tendrá que ver con que la hora del cargador está diferente a la hora normal?
+
+[00:04:27.04] Speaker1: No, no, porque pareciera que no estabas, tal [00:04:30.00] vez conectando hasta el fondo o algo por el estilo, porque esa era de que no estabas. No se estaba conectando como con fuerza conectado.
+
+[00:04:39.94] Speaker2: Okay. Está bien. Muchísimas gracias.
+
+[00:04:42.49] Speaker1: Mucho gusto.
+
